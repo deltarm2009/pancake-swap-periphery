@@ -10,6 +10,4 @@ The following assumes the use of `node@>=10`.
 
 ## Compile Contracts
 
-`yarn compile`
-
-## Run Tests
+`yarn compi
